@@ -1,0 +1,1 @@
+../../../../libCGE/cge.framework/Headers/cgeSprite2d.h
